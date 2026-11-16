@@ -1,4 +1,4 @@
-# WITS experimental artifact
+# WITS experimental 
 
 Code and data for *WITS: Pairing-Free Weighted Threshold Signatures with
 Compact Authorization Proofs*. The artifact covers the Rust host benchmarks,
