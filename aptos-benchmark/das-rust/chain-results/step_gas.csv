@@ -1,0 +1,41 @@
+n,stage,execution_gas
+32,signature,940.75246
+32,key_and_complement,1382.78133
+32,binary,1110.79543
+32,inner_product,1425.5431
+32,degree_and_weight,1245.01997
+32,decode,504.88646
+32,challenge,18.35007
+32,other framing and parameter processing,1235.11286
+64,signature,940.75422
+64,key_and_complement,1382.78133
+64,binary,1110.79543
+64,inner_product,1425.5431
+64,degree_and_weight,1245.01997
+64,decode,504.88646
+64,challenge,18.35007
+64,other framing and parameter processing,1235.12444
+128,signature,940.75598
+128,key_and_complement,1382.78133
+128,binary,1110.79543
+128,inner_product,1425.5431
+128,degree_and_weight,1245.01997
+128,decode,504.88646
+128,challenge,18.35007
+128,other framing and parameter processing,1235.13602
+256,signature,940.75598
+256,key_and_complement,1382.78133
+256,binary,1110.79543
+256,inner_product,1425.5431
+256,degree_and_weight,1245.01997
+256,decode,504.88646
+256,challenge,18.35007
+256,other framing and parameter processing,1235.13602
+512,signature,940.75774
+512,key_and_complement,1382.78133
+512,binary,1110.79543
+512,inner_product,1425.5431
+512,degree_and_weight,1245.01997
+512,decode,504.88646
+512,challenge,18.35007
+512,other framing and parameter processing,1235.14760

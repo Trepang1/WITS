@@ -1,0 +1,5 @@
+n,seed,scheme,execution_gas,io_gas,total_charge_gas,proof_bytes,proof_sha256,pass_1x,pass_2x,pass_4x,pass_8x,same_full_cost_at_all_successful_budgets,equals_frozen_full_cost
+256,0,WITS,8755.70673,140.07926,8896,800,00ca318dc61e32da3c94a5e688c6d1da443b78e011f13c39a2894f06ddd303fa,True,True,True,True,True,True
+256,0,Garg reference,51029.82427,1125.92952,52156,184512,07aada6379eca7764ee2e6ffa3315872bda1990d5e73585e113d2d4c5b0b306f,False,False,False,True,True,True
+512,0,WITS,12934.23187,257.76527,13192,864,32472f50627f4c876c14a4728ea9d2e489bd6bfd783dc813b95622d15da7288f,False,True,True,True,True,True
+512,0,Garg reference,62973.43624,411.50602,63385,230688,704bea7a3d572aeb4f273a60d13c2abf2214fd9b810e5d8e421205657d5dc0ff,False,False,False,True,True,True

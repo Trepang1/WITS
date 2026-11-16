@@ -1,0 +1,14 @@
+{
+  "baseline": "aptos-benchmark/paper-comparison-20261028/time_summary.csv",
+  "baseline_sha256": "2bd6596366a18cb021fba69d311a7daabc451618383a5ef88a0ddde7a311d481",
+  "new_das_summary": "aptos-benchmark/das-rust/summary.csv",
+  "new_das_summary_sha256": "e559f598f7cac11dac9e97ac306d8f38db9d03ecbc2d17318ec7ba78fe1a7dc1",
+  "replacement_time_summary_sha256": "8ddc98eaae268cfc395e94b36ec701f778e511367babd8ca481d7d251844e153",
+  "only_replaced_scheme": "das",
+  "wits_and_garg_origin": "previously frozen Rust executions from the original CPU comparison; not rerun in this 25-case batch",
+  "wits_and_garg_cells_preserved_verbatim": true,
+  "new_das_binary_sha256": "5aa34022c58a7fa25f612326ba775134ffce4ed02edb5c1870d4f78af8dbccc9",
+  "new_das_source_id": "adab6215a6f5d5036fbee7d753cb239962af399160c6ed27d384b7a3981a16fc",
+  "all_25_new_das_cases_complete": true,
+  "no_paper_or_figure_modified": true
+}

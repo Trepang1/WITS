@@ -1,0 +1,102 @@
+{
+  "n32/seed00": {
+    "core-package.bin": "5c3f1dc04721868768bc17b7aa426dcb761faa95178545774879cf7e6e8f6207",
+    "authorization-proof.bin": "4273083397085a03ee2b888fbe33143f20d7b40169c666bb8005f154a7668da6"
+  },
+  "n32/seed01": {
+    "core-package.bin": "f2fa8bdea541eb8f4303ed926d6b11691a8c608ad2c1f69995b77f521b0d87df",
+    "authorization-proof.bin": "371cb94bbac397cde517d8248b1f10536f997460d621b4b0e641ccbb8edef7bf"
+  },
+  "n32/seed02": {
+    "core-package.bin": "7fe1141b7f0749ee833ab039928ebef2353473210258292dff1c45b5ce6b29ec",
+    "authorization-proof.bin": "a1376197d04a17badcb8dde19a0d0d062144f2e579c66e6ae543d0f80e84aac1"
+  },
+  "n32/seed03": {
+    "core-package.bin": "2cf62596a418a1f42149dbd8327cdb2c95e9a26844f4bb4c15870188a613b0be",
+    "authorization-proof.bin": "f2919779a1125eff7a4bda70534415f3cede817c6ee7f23cd38980c1e377aa55"
+  },
+  "n32/seed04": {
+    "core-package.bin": "5ecd1a705b4a7a35c6f8a28e25aab8a479a47acc0685cfbbe6fd47184675016a",
+    "authorization-proof.bin": "3d4425f9b8d167fe747fee14cdc4af760cce0cebcf6dffc6f3500e1ab89f5ed3"
+  },
+  "n64/seed00": {
+    "core-package.bin": "32c48082b26d41f93642ad710a83569b43c416433cfef1ff70651af0e9578b90",
+    "authorization-proof.bin": "93923b20d46dbd20869e2dd60173faa6fcafe21ca176b1030dcbde98a14c3b61"
+  },
+  "n64/seed01": {
+    "core-package.bin": "17c58e9b0c71f0cbdacdd2141cb82ad3529bcf71a509801ecbc7614ba8cb40ec",
+    "authorization-proof.bin": "dbafd79775faad4749d6214e173f3fdf1d19344e82929434ac54a7752dd6dab8"
+  },
+  "n64/seed02": {
+    "core-package.bin": "b4812805cdbb51d7d23e4c223bfb2e45444d2eba0dfa8b851b42bed0585a52df",
+    "authorization-proof.bin": "12c44a1f0982ff793a1f90e478c3f7de8e1570fc3d130084f35d548dda8a3ba9"
+  },
+  "n64/seed03": {
+    "core-package.bin": "d588c2c13ac69445a5e53b76caae799a597cae256424c39dc5fd3e16482bbddc",
+    "authorization-proof.bin": "8ab2a66cd23805b2ff970c136ed14a3bf795407f6cd4591c26c8e94fc8690cb3"
+  },
+  "n64/seed04": {
+    "core-package.bin": "8c74f5b4572b49871f5357bcf62381eda67af2980d64925cfc17efdf0198b78f",
+    "authorization-proof.bin": "8b72007ece41604352e314ab0d61cd44bb986f37c6c447fa245e79d942f2f700"
+  },
+  "n128/seed00": {
+    "core-package.bin": "8b212bd05f92d462cd20895bf9147d067cb872ccf0d63bd1d9680730b08aaf5c",
+    "authorization-proof.bin": "4ad7b3321917fcd1357fd3ce25a59acc4a18dbe104b2dfdaa3b6bf881625554d"
+  },
+  "n128/seed01": {
+    "core-package.bin": "558e61b1db963da0c0d8c2923a436f53886cc5d7dc7a16680d04ccd107c35735",
+    "authorization-proof.bin": "0f13a53b16fb4c3b2f597173dd08801b35848444f51a41a8b781c67e1760a828"
+  },
+  "n128/seed02": {
+    "core-package.bin": "c86c27102942a8217356d925a618ad3d494de5950515dbe2256cdab4ef1e7ccd",
+    "authorization-proof.bin": "5724a60e994328992a3d5bed45afbbc9289e87275c21c3fa12901572f3e2b7ec"
+  },
+  "n128/seed03": {
+    "core-package.bin": "5e3d4547b5d22ba5d75abd61eb132d91e4fe9dc083f5ebd6fefbe3f33a0e54dd",
+    "authorization-proof.bin": "a9203496b84b03a5ce2877e1017586e79a7945890385201f84a0d2500d4d5609"
+  },
+  "n128/seed04": {
+    "core-package.bin": "bd7ad96241f95375aeea61473c51f8970c4a9b4f07d8519a3e75c2941402846c",
+    "authorization-proof.bin": "91288fcee649c19c43828340f6fc0b3d8f5d6cff36d7463fbe8e450efbdc34c9"
+  },
+  "n256/seed00": {
+    "core-package.bin": "a14b8d9c313e847f5632a728dfe75931bc309a155676c449a0c47404a25204f2",
+    "authorization-proof.bin": "e282d84b25a623a0a41312696bf2ea44e631ab12637e7470c1610fcd20783ced"
+  },
+  "n256/seed01": {
+    "core-package.bin": "a36e25ff8c0b671b0eb93daa7f8ffc2069971f39669c037a468101dca4e7950c",
+    "authorization-proof.bin": "4625b56a29ee61d3077d893c1b3e91762a339a68e4969747e8757de1b63ab2f3"
+  },
+  "n256/seed02": {
+    "core-package.bin": "8cb043649ff0f5bf12a23f12b787c57fece23c7b001c642f2a490184d7e1f511",
+    "authorization-proof.bin": "30af38bb3deb7ad0ba9c992e6e157c3847543b7fb01176b95f936d1f84a135cd"
+  },
+  "n256/seed03": {
+    "core-package.bin": "9a5c389b07196db4f9552b941624da3969797d78b80a98ae1cd576b5634df899",
+    "authorization-proof.bin": "818dfafe4edc70d59034db3d24826f4f4f65306ec0d3ed60a7befa90fb2113b5"
+  },
+  "n256/seed04": {
+    "core-package.bin": "f697e180cb235119e2b8d1d7d7ad50826e536dbd4c4cc599dde1ba7444b0f797",
+    "authorization-proof.bin": "b8f95be9c44e3ba05dec8447eee7170893c1da9188bbee62a8fecce6d15dde78"
+  },
+  "n512/seed00": {
+    "core-package.bin": "d09e47ff3311b1cf0d286c8cca316517b08b29811f454078a8d6c06d19f65f57",
+    "authorization-proof.bin": "483b84d0640dab6c518f9d38799365710fbb4397e8387d32ac7434a8fd9dc725"
+  },
+  "n512/seed01": {
+    "core-package.bin": "dfbda60603e9275451eab4abab88de987d19e1aca8ebd9f3ff2b71e0f52cff0b",
+    "authorization-proof.bin": "750fbc1574f6d00c27238cc347f3205b9598a01bce249714ad856e47adb553f2"
+  },
+  "n512/seed02": {
+    "core-package.bin": "ddff4498818620f35ee44a91c5284486e2b176e75dcbb895a16d5f9baf108923",
+    "authorization-proof.bin": "fb209294c3cdac13d24181749a9c5a582a6dcd336e2d0b4b1c0ff987b15d47f8"
+  },
+  "n512/seed03": {
+    "core-package.bin": "9d7a7df39c3eef08fbf4ef0a84922a79ad30a8b571c8360519fb883e2a8335a8",
+    "authorization-proof.bin": "bbfa5381307d22b2bd47e5976630e664b4debae2014cb70ced00f64f8f04ee83"
+  },
+  "n512/seed04": {
+    "core-package.bin": "ec638999baa129492c5627b3de00fec800501d90b28b441e1dd843917736efa9",
+    "authorization-proof.bin": "027a78862ec489a18dd3dcfe7bc9c6069bd410d960a95759846d1ec8188062ec"
+  }
+}

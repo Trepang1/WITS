@@ -1,0 +1,8 @@
+{
+  "tag": "aptos-cli-v9.6.0",
+  "framework_commit": "07490157d3250932a385010878a3c5ae7c1338bb",
+  "archive_sha256": "4e28e71659a53e8eacff29d127685f2f282a8c008ff6e51047daedc72576bb8d",
+  "asset_url": "https://github.com/aptos-labs/aptos-core/releases/download/aptos-cli-v9.6.0/aptos-cli-9.6.0-Linux-x86_64.zip",
+  "framework_source_url": "https://codeload.github.com/aptos-labs/aptos-core/tar.gz/07490157d3250932a385010878a3c5ae7c1338bb",
+  "framework_archive_sha256": "c2781f94b3bd2573d0bfa860c4266ecc019ca177b8118801150574e68c499dc2"
+}

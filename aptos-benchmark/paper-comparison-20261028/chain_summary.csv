@@ -1,0 +1,11 @@
+n,seed,scheme,execution_gas,io_gas,total_charge_gas,normal_budget_success,execution_cap,proof_bytes,verify_transaction_bytes,registration_execution_gas,registration_io_gas,registration_storage_fee_octas,registration_total_charge_gas,registration_transactions,upload_execution_gas,upload_io_gas,upload_storage_fee_octas,upload_total_charge_gas,upload_transactions,upload_transaction_bytes,complete_honest,measurement
+32,0,ours,4056.69416,34.0218,4091,True,9200,608,3634,31669,494,4440400,76561,17,0,0,0,0,0,0,True,"official Aptos Move VM session, no committed transaction"
+32,0,garg,26555.50157,235.2935,26791,False,9200,78688,452,1264,776,27104800,273083,9,1610,1153,32897200,331729,11,83749,True,"official Aptos Move VM session, no committed transaction"
+64,0,ours,5052.98455,46.79311,5100,True,9200,672,4085,64628,1362,8409200,150067,33,0,0,0,0,0,0,True,"official Aptos Move VM session, no committed transaction"
+64,0,garg,32372.75168,383.73343,32757,False,9200,104256,453,3031,2889,54560800,551518,17,2257,1889,43444000,438579,14,110827,True,"official Aptos Move VM session, no committed transaction"
+128,0,ours,6398.23896,77.91638,6477,True,9200,736,4308,133784,4244,16345600,301456,65,0,0,0,0,0,0,True,"official Aptos Move VM session, no committed transaction"
+128,0,garg,42081.31807,649.6876,42732,False,9200,145568,454,8102,11137,109473200,1113955,33,3476,3523,60485200,611841,19,154615,True,"official Aptos Move VM session, no committed transaction"
+256,0,ours,8755.70673,140.07926,8896,True,9200,800,4660,287376,14577,32218000,624065,129,0,0,0,0,0,0,True,"official Aptos Move VM session, no committed transaction"
+256,0,garg,51029.82427,1125.92952,52156,False,9200,184512,454,24371,43672,219297200,2260982,65,4859,5669,76549600,776012,24,195961,True,"official Aptos Move VM session, no committed transaction"
+512,0,ours,12934.23187,257.76527,13192,False,9200,864,4853,657405,53519,63962000,1350427,257,0,0,0,0,0,0,True,"official Aptos Move VM session, no committed transaction"
+512,0,garg,62973.43624,411.50602,63385,False,9200,230688,463,16875,3492,492852800,4948766,130,6768,8898,95597200,971624,30,245001,True,"official Aptos Move VM session, no committed transaction"

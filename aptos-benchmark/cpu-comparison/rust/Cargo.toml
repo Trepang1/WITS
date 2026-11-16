@@ -1,0 +1,24 @@
+[package]
+name = "wtas-cpu-comparison"
+version = "0.1.0"
+edition = "2021"
+
+[workspace]
+
+[[bin]]
+name = "ours-current"
+path = "src/ours.rs"
+
+[[bin]]
+name = "garg-reference-timed"
+path = "src/garg.rs"
+
+[dependencies]
+curve25519-dalek = { version = "=4.1.3", features = ["rand_core", "digest"] }
+rand = "=0.8.5"
+sha2 = "=0.10.9"
+serde_json = "=1.0.145"
+hex = "=0.4.3"
+ark-ff = "0.4"
+ark-poly = "0.4"
+garg-ecfft-field-probe = { path = "../../garg/ecfft-field-probe" }

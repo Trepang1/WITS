@@ -1,0 +1,2 @@
+# Keep the release hashes stable across Windows, WSL, and Linux checkouts.
+* -text

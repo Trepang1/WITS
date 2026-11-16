@@ -1,0 +1,30 @@
+{
+  "figure_sources": {
+    "cpu": "aptos-benchmark/das-rust/replacement_time_summary.csv",
+    "aptos": "aptos-benchmark/das-rust/chain-results/three_scheme_summary.csv"
+  },
+  "observations": {
+    "host": 75,
+    "vm": 15,
+    "budget_attempts": 16
+  },
+  "sha256": {
+    "aptos-benchmark/das-rust/chain-results/step_gas.csv": "a5a1223ded3e74ca32d147d7db59c3e387b698f86d0eb2c6878b597276cb6bac",
+    "aptos-benchmark/das-rust/chain-results/summary.csv": "e8165f4113ac8fc2e1a0458c2593402e9c0ac5d24777c4c2a3f4e969291e3c5e",
+    "aptos-benchmark/das-rust/chain-results/three_scheme_summary.csv": "b62b55d91447a65edd29f0030678f21821852e24b8fc7e2997445ba0d64135f3",
+    "aptos-benchmark/das-rust/replacement_provenance.json": "2218d93c3e7ff109898f8b45adcbe295738798a57967f45cb97f6dcc17d6264b",
+    "aptos-benchmark/das-rust/replacement_time_summary.csv": "8ddc98eaae268cfc395e94b36ec701f778e511367babd8ca481d7d251844e153",
+    "aptos-benchmark/das-rust/summary.csv": "e559f598f7cac11dac9e97ac306d8f38db9d03ecbc2d17318ec7ba78fe1a7dc1",
+    "aptos-benchmark/paper-comparison-20261028/chain_native_operation_gas.csv": "98eff300b8d08137c83851130effaf83771872c4b0a0a5ae2884fdadb6427115",
+    "aptos-benchmark/paper-comparison-20261028/chain_step_gas.csv": "74491d95ad559a1afe06c3309a23380e449e65bcef3be5b1e06afa06ae474657",
+    "aptos-benchmark/paper-comparison-20261028/chain_summary.csv": "b9210235f5a0eb1de3ee91f04782c9baf9f9f56fb271c2b78b4c112374daac17",
+    "aptos-benchmark/paper-comparison-20261028/time_summary.csv": "2bd6596366a18cb021fba69d311a7daabc451618383a5ef88a0ddde7a311d481",
+    "data/cap-attempts.csv": "bb8c2a938436d9ffe6e5fae6791f43a3754b9e0fc1b135d33dabbe75f33d7600",
+    "data/cap-summary.csv": "9d3611d70a8deecefa3a8b972c2d9c8b3f7d9c8c1b573ace0ff402611e5e1b1e",
+    "data/host-samples.csv": "2f0b08878f78f6eb37d0d8d0cb166214dff7861f5a84cddc0cc4cce839163556",
+    "data/published-figures/aptos-full-verification-data.csv": "72a2060ac0ec0fe608fddbd9dcafbc31b76ef187e40fb6e312bd92638fc546d2",
+    "data/published-figures/cpu-host-comparison-data.csv": "cca557e7e8eb8b07696ef7cb6185670a2cecb64bdce37a44b4e9928d2e43e9ad",
+    "manuscript/render_figures.py": "11f046d9f2bc6a8df4a8fc4d89453c4927955d59a4294218f1ec82ad37f74868",
+    "manuscript/requirements.txt": "7d65fe6b75d7de5fc53d68510556bd342754af7c8b72603148cc52f558feb596"
+  }
+}

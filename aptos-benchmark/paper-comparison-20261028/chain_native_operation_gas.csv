@@ -1,0 +1,81 @@
+n,seed,scheme,category,execution_gas,scope
+32,0,ours,Native MSM,347.5465,Exclusive operation categories; separate decomposition from step_gas.csv
+32,0,ours,Native scalar inversion,24.2616,Exclusive operation categories; separate decomposition from step_gas.csv
+32,0,ours,Native other scalar arithmetic,17.56608,Exclusive operation categories; separate decomposition from step_gas.csv
+32,0,ours,Native other group operations,170.09025,Exclusive operation categories; separate decomposition from step_gas.csv
+32,0,ours,Native Ed25519 verification,25.51858,Exclusive operation categories; separate decomposition from step_gas.csv
+32,0,ours,Native hashing,54.1552,Exclusive operation categories; separate decomposition from step_gas.csv
+32,0,ours,Other native operations,26.50592,Exclusive operation categories; separate decomposition from step_gas.csv
+32,0,ours,"Move instructions, intrinsic and dependency costs",3391.05003,Exclusive operation categories; separate decomposition from step_gas.csv
+32,0,garg,Native MSM,11490.0763,Exclusive operation categories; separate decomposition from step_gas.csv
+32,0,garg,Native scalar inversion,1661.9196,Exclusive operation categories; separate decomposition from step_gas.csv
+32,0,garg,Native other scalar arithmetic,497.6115,Exclusive operation categories; separate decomposition from step_gas.csv
+32,0,garg,Native other group operations,1668.65068,Exclusive operation categories; separate decomposition from step_gas.csv
+32,0,garg,Native Ed25519 verification,0.0,Exclusive operation categories; separate decomposition from step_gas.csv
+32,0,garg,Native hashing,734.3217,Exclusive operation categories; separate decomposition from step_gas.csv
+32,0,garg,Other native operations,248.68525,Exclusive operation categories; separate decomposition from step_gas.csv
+32,0,garg,"Move instructions, intrinsic and dependency costs",10254.23654,Exclusive operation categories; separate decomposition from step_gas.csv
+64,0,ours,Native MSM,539.08002,Exclusive operation categories; separate decomposition from step_gas.csv
+64,0,ours,Native scalar inversion,28.3052,Exclusive operation categories; separate decomposition from step_gas.csv
+64,0,ours,Native other scalar arithmetic,32.85044,Exclusive operation categories; separate decomposition from step_gas.csv
+64,0,ours,Native other group operations,316.00171,Exclusive operation categories; separate decomposition from step_gas.csv
+64,0,ours,Native Ed25519 verification,25.66378,Exclusive operation categories; separate decomposition from step_gas.csv
+64,0,ours,Native hashing,92.079,Exclusive operation categories; separate decomposition from step_gas.csv
+64,0,ours,Other native operations,31.75389,Exclusive operation categories; separate decomposition from step_gas.csv
+64,0,ours,"Move instructions, intrinsic and dependency costs",3987.25051,Exclusive operation categories; separate decomposition from step_gas.csv
+64,0,garg,Native MSM,13881.0117,Exclusive operation categories; separate decomposition from step_gas.csv
+64,0,garg,Native scalar inversion,1949.0152,Exclusive operation categories; separate decomposition from step_gas.csv
+64,0,garg,Native other scalar arithmetic,556.78781,Exclusive operation categories; separate decomposition from step_gas.csv
+64,0,garg,Native other group operations,1986.40936,Exclusive operation categories; separate decomposition from step_gas.csv
+64,0,garg,Native Ed25519 verification,0.0,Exclusive operation categories; separate decomposition from step_gas.csv
+64,0,garg,Native hashing,925.88217,Exclusive operation categories; separate decomposition from step_gas.csv
+64,0,garg,Other native operations,329.38645,Exclusive operation categories; separate decomposition from step_gas.csv
+64,0,garg,"Move instructions, intrinsic and dependency costs",12744.25899,Exclusive operation categories; separate decomposition from step_gas.csv
+128,0,ours,Native MSM,904.81106,Exclusive operation categories; separate decomposition from step_gas.csv
+128,0,ours,Native scalar inversion,32.3488,Exclusive operation categories; separate decomposition from step_gas.csv
+128,0,ours,Native other scalar arithmetic,62.92738,Exclusive operation categories; separate decomposition from step_gas.csv
+128,0,ours,Native other group operations,604.83605,Exclusive operation categories; separate decomposition from step_gas.csv
+128,0,ours,Native Ed25519 verification,25.80898,Exclusive operation categories; separate decomposition from step_gas.csv
+128,0,ours,Native hashing,95.4821,Exclusive operation categories; separate decomposition from step_gas.csv
+128,0,ours,Other native operations,32.67443,Exclusive operation categories; separate decomposition from step_gas.csv
+128,0,ours,"Move instructions, intrinsic and dependency costs",4639.35016,Exclusive operation categories; separate decomposition from step_gas.csv
+128,0,garg,Native MSM,17796.8539,Exclusive operation categories; separate decomposition from step_gas.csv
+128,0,garg,Native scalar inversion,2442.3344,Exclusive operation categories; separate decomposition from step_gas.csv
+128,0,garg,Native other scalar arithmetic,668.15819,Exclusive operation categories; separate decomposition from step_gas.csv
+128,0,garg,Native other group operations,2517.52462,Exclusive operation categories; separate decomposition from step_gas.csv
+128,0,garg,Native Ed25519 verification,0.0,Exclusive operation categories; separate decomposition from step_gas.csv
+128,0,garg,Native hashing,1220.66628,Exclusive operation categories; separate decomposition from step_gas.csv
+128,0,garg,Other native operations,458.15165,Exclusive operation categories; separate decomposition from step_gas.csv
+128,0,garg,"Move instructions, intrinsic and dependency costs",16977.62903,Exclusive operation categories; separate decomposition from step_gas.csv
+256,0,ours,Native MSM,1549.6813,Exclusive operation categories; separate decomposition from step_gas.csv
+256,0,ours,Native scalar inversion,36.3924,Exclusive operation categories; separate decomposition from step_gas.csv
+256,0,ours,Native other scalar arithmetic,122.75856,Exclusive operation categories; separate decomposition from step_gas.csv
+256,0,ours,Native other group operations,1179.51615,Exclusive operation categories; separate decomposition from step_gas.csv
+256,0,ours,Native Ed25519 verification,25.94978,Exclusive operation categories; separate decomposition from step_gas.csv
+256,0,ours,Native hashing,100.6486,Exclusive operation categories; separate decomposition from step_gas.csv
+256,0,ours,Other native operations,35.55785,Exclusive operation categories; separate decomposition from step_gas.csv
+256,0,ours,"Move instructions, intrinsic and dependency costs",5705.20209,Exclusive operation categories; separate decomposition from step_gas.csv
+256,0,garg,Native MSM,21400.49382,Exclusive operation categories; separate decomposition from step_gas.csv
+256,0,garg,Native scalar inversion,2866.9124,Exclusive operation categories; separate decomposition from step_gas.csv
+256,0,garg,Native other scalar arithmetic,759.07598,Exclusive operation categories; separate decomposition from step_gas.csv
+256,0,garg,Native other group operations,2992.69012,Exclusive operation categories; separate decomposition from step_gas.csv
+256,0,garg,Native Ed25519 verification,0.0,Exclusive operation categories; separate decomposition from step_gas.csv
+256,0,garg,Native hashing,1509.23457,Exclusive operation categories; separate decomposition from step_gas.csv
+256,0,garg,Other native operations,581.65885,Exclusive operation categories; separate decomposition from step_gas.csv
+256,0,garg,"Move instructions, intrinsic and dependency costs",20919.75853,Exclusive operation categories; separate decomposition from step_gas.csv
+512,0,ours,Native MSM,2735.51598,Exclusive operation categories; separate decomposition from step_gas.csv
+512,0,ours,Native scalar inversion,40.436,Exclusive operation categories; separate decomposition from step_gas.csv
+512,0,ours,Native other scalar arithmetic,242.05595,Exclusive operation categories; separate decomposition from step_gas.csv
+512,0,ours,Native other group operations,2325.88777,Exclusive operation categories; separate decomposition from step_gas.csv
+512,0,ours,Native Ed25519 verification,26.09498,Exclusive operation categories; separate decomposition from step_gas.csv
+512,0,ours,Native hashing,113.1635,Exclusive operation categories; separate decomposition from step_gas.csv
+512,0,ours,Other native operations,36.00515,Exclusive operation categories; separate decomposition from step_gas.csv
+512,0,ours,"Move instructions, intrinsic and dependency costs",7415.07254,Exclusive operation categories; separate decomposition from step_gas.csv
+512,0,garg,Native MSM,24311.17862,Exclusive operation categories; separate decomposition from step_gas.csv
+512,0,garg,Native scalar inversion,3214.662,Exclusive operation categories; separate decomposition from step_gas.csv
+512,0,garg,Native other scalar arithmetic,853.40598,Exclusive operation categories; separate decomposition from step_gas.csv
+512,0,garg,Native other group operations,3378.712,Exclusive operation categories; separate decomposition from step_gas.csv
+512,0,garg,Native Ed25519 verification,0.0,Exclusive operation categories; separate decomposition from step_gas.csv
+512,0,garg,Native hashing,1848.41916,Exclusive operation categories; separate decomposition from step_gas.csv
+512,0,garg,Other native operations,4501.37509,Exclusive operation categories; separate decomposition from step_gas.csv
+512,0,garg,"Move instructions, intrinsic and dependency costs",24865.68339,Exclusive operation categories; separate decomposition from step_gas.csv

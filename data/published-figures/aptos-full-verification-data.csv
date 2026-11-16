@@ -1,0 +1,16 @@
+n,scheme,execution_gas,io_gas,minimum_execution_budget_multiplier,standard_budget_success,measurement
+32,WITS,4056.69416,34.0218,1,True,complete official Aptos VM execution; no committed transaction
+64,WITS,5052.98455,46.79311,1,True,complete official Aptos VM execution; no committed transaction
+128,WITS,6398.23896,77.91638,1,True,complete official Aptos VM execution; no committed transaction
+256,WITS,8755.70673,140.07926,1,True,complete official Aptos VM execution; no committed transaction
+512,WITS,12934.23187,257.76527,2,False,complete official Aptos VM execution; no committed transaction
+32,Das23 (BLS),7863.24168,19.19548,1,True,complete official Aptos VM execution; no committed transaction
+64,Das23 (BLS),7863.25502,19.19637,1,True,complete official Aptos VM execution; no committed transaction
+128,Das23 (BLS),7863.26836,19.19726,1,True,complete official Aptos VM execution; no committed transaction
+256,Das23 (BLS),7863.26836,19.19726,1,True,complete official Aptos VM execution; no committed transaction
+512,Das23 (BLS),7863.2817,19.19815,1,True,complete official Aptos VM execution; no committed transaction
+32,Garg24 (reference),26555.50157,235.2935,4,False,complete official Aptos VM execution; no committed transaction
+64,Garg24 (reference),32372.75168,383.73343,4,False,complete official Aptos VM execution; no committed transaction
+128,Garg24 (reference),42081.31807,649.6876,8,False,complete official Aptos VM execution; no committed transaction
+256,Garg24 (reference),51029.82427,1125.92952,8,False,complete official Aptos VM execution; no committed transaction
+512,Garg24 (reference),62973.43624,411.50602,8,False,complete official Aptos VM execution; no committed transaction

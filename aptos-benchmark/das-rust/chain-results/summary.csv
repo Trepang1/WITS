@@ -1,0 +1,6 @@
+n,seed,scheme,execution_gas,io_gas,total_charge_gas,normal_budget_success,execution_cap,proof_bytes,core_package_bytes,verify_transaction_bytes,complete_honest,measurement
+32,0,das,7863.24168,19.19548,7883,True,9200,384,536,874,True,official Aptos VM complete verifier; independent official profiler; same pinned gas prices
+64,0,das,7863.25502,19.19637,7883,True,9200,384,536,875,True,official Aptos VM complete verifier; independent official profiler; same pinned gas prices
+128,0,das,7863.26836,19.19726,7883,True,9200,384,536,876,True,official Aptos VM complete verifier; independent official profiler; same pinned gas prices
+256,0,das,7863.26836,19.19726,7883,True,9200,384,536,876,True,official Aptos VM complete verifier; independent official profiler; same pinned gas prices
+512,0,das,7863.2817,19.19815,7883,True,9200,384,536,877,True,official Aptos VM complete verifier; independent official profiler; same pinned gas prices

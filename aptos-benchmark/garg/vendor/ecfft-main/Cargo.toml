@@ -1,0 +1,37 @@
+[package]
+name = "ecfft"
+description = "Elliptic curve fast fourier transform for all prime fields"
+repository = "https://github.com/andrewmilson/ecfft"
+authors = ["Andrew Milson <andrew.j.milson@gmail.com>"]
+keywords = ["cryptography", "finite-fields", "elliptic-curves", "fft"]
+categories = ["cryptography"]
+version = "0.1.0"
+license = "MIT"
+edition = "2021"
+
+[[bench]]
+name = "fftree"
+path = "benches/fftree.rs"
+harness = false
+
+[[bench]]
+name = "compareison"
+path = "benches/comparison.rs"
+harness = false
+
+[dependencies]
+ark-ff = "0.4"
+ark-serialize = { version = "0.4", features = [ "std" ] }
+ark-poly = "0.4"
+ark-ff-optimized = "0.4"
+num-bigint = "0.4"
+num-integer = "0.1"
+rand = "0.8"
+
+[dev-dependencies]
+criterion = "0.4"
+rayon = "1.7"
+
+[profile.bench]
+codegen-units = 1
+lto = true

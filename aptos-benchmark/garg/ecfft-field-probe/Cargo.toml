@@ -1,0 +1,13 @@
+[package]
+name = "garg-ecfft-field-probe"
+version = "0.1.0"
+edition = "2021"
+
+[workspace]
+
+[dependencies]
+ecfft = { path = "../vendor/ecfft-main" }
+ark-ff = "0.4"
+ark-poly = "0.4"
+rand = "0.8"
+serde_json = "1"

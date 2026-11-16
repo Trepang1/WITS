@@ -1,0 +1,16 @@
+n,seed,scheme,execution_gas,io_gas,total_charge_gas,normal_budget_success,execution_cap,proof_bytes,verify_transaction_bytes,complete_honest,measurement,core_package_bytes
+32,0,das,7863.24168,19.19548,7883,True,9200,384,874,True,official Aptos VM complete verifier; independent official profiler; same pinned gas prices,536
+32,0,garg,26555.50157,235.2935,26791,False,9200,78688,452,True,"official Aptos Move VM session, no committed transaction",
+32,0,ours,4056.69416,34.0218,4091,True,9200,608,3634,True,"official Aptos Move VM session, no committed transaction",
+64,0,das,7863.25502,19.19637,7883,True,9200,384,875,True,official Aptos VM complete verifier; independent official profiler; same pinned gas prices,536
+64,0,garg,32372.75168,383.73343,32757,False,9200,104256,453,True,"official Aptos Move VM session, no committed transaction",
+64,0,ours,5052.98455,46.79311,5100,True,9200,672,4085,True,"official Aptos Move VM session, no committed transaction",
+128,0,das,7863.26836,19.19726,7883,True,9200,384,876,True,official Aptos VM complete verifier; independent official profiler; same pinned gas prices,536
+128,0,garg,42081.31807,649.6876,42732,False,9200,145568,454,True,"official Aptos Move VM session, no committed transaction",
+128,0,ours,6398.23896,77.91638,6477,True,9200,736,4308,True,"official Aptos Move VM session, no committed transaction",
+256,0,das,7863.26836,19.19726,7883,True,9200,384,876,True,official Aptos VM complete verifier; independent official profiler; same pinned gas prices,536
+256,0,garg,51029.82427,1125.92952,52156,False,9200,184512,454,True,"official Aptos Move VM session, no committed transaction",
+256,0,ours,8755.70673,140.07926,8896,True,9200,800,4660,True,"official Aptos Move VM session, no committed transaction",
+512,0,das,7863.2817,19.19815,7883,True,9200,384,877,True,official Aptos VM complete verifier; independent official profiler; same pinned gas prices,536
+512,0,garg,62973.43624,411.50602,63385,False,9200,230688,463,True,"official Aptos Move VM session, no committed transaction",
+512,0,ours,12934.23187,257.76527,13192,False,9200,864,4853,True,"official Aptos Move VM session, no committed transaction",

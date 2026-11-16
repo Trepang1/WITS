@@ -1,0 +1,21 @@
+[package]
+name = "das-rust-comparison"
+version = "0.1.0"
+edition = "2021"
+
+[workspace]
+
+[[bin]]
+name = "das-rust"
+path = "src/main.rs"
+
+[dependencies]
+blstrs = "=0.7.1"
+ff = "=0.13.1"
+group = "=0.13.0"
+pairing = "=0.23.0"
+sha2 = "=0.10.9"
+serde_json = "=1.0.145"
+hex = "=0.4.3"
+num-bigint = "=0.4.6"
+num-traits = "=0.2.19"
